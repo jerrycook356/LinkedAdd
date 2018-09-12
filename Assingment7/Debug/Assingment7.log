@@ -1,0 +1,9 @@
+﻿  AddLists.cpp
+c:\users\jerry\source\repos\assingment7\assingment7\linkedlist.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\jerry\source\repos\assingment7\assingment7\linkedlist.h(47): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\jerry\source\repos\assingment7\assingment7\linkedlist.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jerry\source\repos\assingment7\assingment7\linkedlist.cpp(52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jerry\source\repos\assingment7\assingment7\linkedlist.cpp(165): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jerry\source\repos\assingment7\assingment7\addlists.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jerry\source\repos\assingment7\assingment7\addlists.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  Assingment7.vcxproj -> C:\Users\jerry\source\repos\Assingment7\Debug\Assingment7.exe
